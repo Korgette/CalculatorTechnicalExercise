@@ -11,7 +11,8 @@ opp_dict = {"1":["addition","Please insert a second number to be added to the in
             "2":["subtraction", "Please enter a second number to be subtracted from the initial number","-"],
             "3":["multiplication","Please enter a second number to be multiplied by the initial number","*"],
             "4":["division", "please enter a second number to be divided by the initial number","/"],
-            "5":["conversion", "please designate which conversion you would like to take place", "->"]}
+            "5":["conversion", "please designate which conversion you would like to take place", "->"],
+            "q":["quit"]}
 
 #A list of all selected numbers for non-conversion operation (used to exclude conversion operation)
 non_conv_opps = ["1","2","3","4"]
@@ -69,6 +70,8 @@ def calculate():
         for i in opp_dict:
             print(f"{i}: {opp_dict[i][0]}")
         op_choice = input()
+        if op_choice == 'q':
+            break
         #If there is a previous answer, use that as n1 - else, ask for user input, then display function descrip
         try:
             if use_prev_ans == False:
