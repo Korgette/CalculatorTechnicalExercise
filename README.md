@@ -9,13 +9,13 @@ Then scroll over downloads, and select the current version for your operating sy
 
 **Cloning and running the Application**
 <br></br>
-The script for the application is included in the calculator_challenge.py file, to run this file
+The script for the application is included in the calculator_challenge.py file, to run this file:
 <br></br>
 **Downloading the file:**
 <br></br>
 You can download the file directly by clicking "Download raw copy" in the top-right of the page on github.
 <br></br>
-**Running the file**
+**Running the file:**
 <br></br>
 To run the file in the terminal, type "Python (file location)", with (file location) replaced with the location of the file on your computer.
 <br></br>
