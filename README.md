@@ -1,5 +1,15 @@
 # CalculatorTechnicalExercise
 
+**Description:**
+
+This is a basic calculator application with the following functions:
+* Addition
+* Subtraction
+* Multiplcation
+* Division
+* Various Unit conversions
+* Recall/reuse/removal of previous answers
+
 **Running the application:**
 
 **Installing Python**
