@@ -8,7 +8,9 @@ To run the application, you must first have Python installed, if you do not have
 Then scroll over downloads, and select the current version for your operating system.
 
 **Cloning and running the Application**
+<br></br>
 The script for the application is included in the calculator_challenge.py file, to run this file
 **Downloading the file:**
+<br></br>
 You can either
 
