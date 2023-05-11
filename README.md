@@ -17,7 +17,7 @@ You can download the file directly by clicking "Download raw copy" in the top-ri
 <br></br>
 **Running the file:**
 <br></br>
-To run the file in the terminal, type "Python (file location)", with (file location) replaced with the location of the file on your computer.
+To run the file in the terminal, type "Python (file location)", with (file location) replaced with the location of the file on your computer. The application will then run directly in the terminal session.
 <br></br>
 
 
